@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc ../../lib/libsupport.a  CMakeFiles/support.dir/archive.cpp.o CMakeFiles/support.dir/bits.cpp.o CMakeFiles/support.dir/colors.cpp.o CMakeFiles/support.dir/command-line.cpp.o CMakeFiles/support.dir/file.cpp.o CMakeFiles/support.dir/safe_integer.cpp.o CMakeFiles/support.dir/threads.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib ../../lib/libsupport.a

@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libWAST.a  CMakeFiles/WAST.dir/NFA.cpp.o CMakeFiles/WAST.dir/Lexer.cpp.o CMakeFiles/WAST.dir/Parse.cpp.o CMakeFiles/WAST.dir/ParseFunction.cpp.o CMakeFiles/WAST.dir/ParseNumbers.cpp.o CMakeFiles/WAST.dir/ParseModule.cpp.o CMakeFiles/WAST.dir/ParseTests.cpp.o CMakeFiles/WAST.dir/Print.cpp.o CMakeFiles/WAST.dir/Regexp.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libWAST.a

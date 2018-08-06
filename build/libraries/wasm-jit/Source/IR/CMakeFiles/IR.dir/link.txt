@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libIR.a  CMakeFiles/IR.dir/DisassemblyNames.cpp.o CMakeFiles/IR.dir/Operators.cpp.o CMakeFiles/IR.dir/Types.cpp.o CMakeFiles/IR.dir/Validate.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libIR.a

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libraries/wasm-jit/Include/Inline/BasicTypes.h
+cstdint
+-
+cstddef
+-
+
+../libraries/wasm-jit/Include/Logging/Logging.h
+Inline/BasicTypes.h
+../libraries/wasm-jit/Include/Logging/Inline/BasicTypes.h
+Platform/Platform.h
+../libraries/wasm-jit/Include/Logging/Platform/Platform.h
+
+../libraries/wasm-jit/Include/Platform/Platform.h
+assert.h
+-
+vector
+-
+functional
+-
+Inline/BasicTypes.h
+../libraries/wasm-jit/Include/Platform/Inline/BasicTypes.h
+intrin.h
+-
+
+/Users/angeljose/Apps/eosapps/Oasis/libraries/wasm-jit/Source/Logging/Logging.cpp
+Logging.h
+/Users/angeljose/Apps/eosapps/Oasis/libraries/wasm-jit/Source/Logging/Logging.h
+Platform/Platform.h
+/Users/angeljose/Apps/eosapps/Oasis/libraries/wasm-jit/Source/Logging/Platform/Platform.h
+cstdio
+-
+cstdarg
+-
+cstdlib
+-
+

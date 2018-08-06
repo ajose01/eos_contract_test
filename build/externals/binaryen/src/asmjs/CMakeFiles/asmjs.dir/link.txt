@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc ../../lib/libasmjs.a  CMakeFiles/asmjs.dir/asm_v_wasm.cpp.o CMakeFiles/asmjs.dir/shared-constants.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib ../../lib/libasmjs.a
